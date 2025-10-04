@@ -24,7 +24,7 @@ This repository contains a **comprehensive analysis and modeling of stock prices
 
 The dataset is sourced from **Yahoo Finance** using the `yfinance` library. It contains historical stock prices with daily records, including:
 
-* Date
+* Date - Contains historical stock prices with daily records from 2015 to 2025
 * Open, High, Low, Close prices
 * Volume
 
