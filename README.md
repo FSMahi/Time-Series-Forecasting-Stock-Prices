@@ -102,11 +102,11 @@ The notebook uses the **Close price** as the target variable for forecasting.
 
 ### 1. Stock Price Trend
 
-![Stock Price Trend](path_to_your_image/stock_trend.png)
+![Stock Price Trend](Sock.png)
 
 ### 2. ARIMA Model Predictions vs Actual
 
-![ARIMA Predictions](path_to_your_image/arima_predictions.png)
+![ARIMA Predictions](ARIMA.png)
 
 ### 3. LSTM Model Predictions vs Actual
 
@@ -114,7 +114,7 @@ The notebook uses the **Close price** as the target variable for forecasting.
 
 ### 4. Comparison of ARIMA and LSTM
 
-![Model Comparison](path_to_your_image/model_comparison.png)
+![Model Comparison](ARIMAvsLSTM.png)
 
 > **Note:** Replace `path_to_your_image/...` with actual paths to screenshots saved in your repository (e.g., `images/arima_plot.png`).
 
